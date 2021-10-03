@@ -1,5 +1,6 @@
 # lame-riscv
 Algoritmo LAME (Lame Ain't an MP3 Encoder) para ser compilador para RISC-V. O algoritmo converte arquivos wmv para mp3.
+OBS: o algoritmo em si não foi escrito por mim, ele foi retirado da página do [MiBench](https://vhosts.eecs.umich.edu/mibench/source.html) no arquivo `consumer.tar.gz`.
 
 # Baixar arquivos
 Para baixar os arquivos do repositório basta executar o comando:
